@@ -3,7 +3,7 @@
 Chat Color Stripper is a Chrome extension that removes background colors from copied text on chat.openai.com. It can handle both tables and simple text while preserving the formatting of any tables in the copied text. This extension is designed to make the pasting experience smoother and cleaner by removing unnecessary background colors.
 
 ## Installation
-
+0. Extension Sotre: https://chrome.google.com/webstore/detail/chatgpt-color-stripper/aelkfcdpmjmphhgphmpejcpbijppofff
 1. Download the extension files as a ZIP archive and extract it to a folder.
 2. Open the Chrome browser and navigate to `chrome://extensions`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
