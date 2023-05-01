@@ -4,6 +4,7 @@ Chat Color Stripper is a Chrome extension that removes background colors from co
 
 ## Installation
 0. Extension Sotre: https://chrome.google.com/webstore/detail/chatgpt-color-stripper/aelkfcdpmjmphhgphmpejcpbijppofff
+-- OR JUST FOLLOW THE BELOW METHOD --
 1. Download the extension files as a ZIP archive and extract it to a folder.
 2. Open the Chrome browser and navigate to `chrome://extensions`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
